@@ -27,5 +27,6 @@ AI was used for:
 - creating the workflow
 - creating the README.md
 - advising in setting up the github and excecuting the processes properly
+- creating the file .gitignore (some cache files are already in the repo baecause the file was added too late)
 
 All code was reviewed and adapted manually.
