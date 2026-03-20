@@ -1,4 +1,7 @@
 # Open-Source-Energy-System-Modeling HW 1
+![Tests](https://img.shields.io/github/actions/workflow/status/W4LL3-UZUM4K1/Open-Source-Energy-System-Modeling/python-app.yml?style=flat&label=test&color=green)
+![License](https://img.shields.io/github/license/W4LL3-UZUM4K1/Open-Source-Energy-System-Modeling?style=flatt&color=blue)
+
 
 ## Description
 This project provides simple utility functions for energy-related calculations.
