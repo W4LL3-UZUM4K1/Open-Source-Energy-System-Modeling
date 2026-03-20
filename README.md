@@ -1,3 +1,28 @@
-# Open-Source-Energy-System-Modeling
-The present repository contains all relevant files regarding the first Homework for the course "Open Source Energy Systems Modeling" for the summer semester 2026.
+# Open-Source-Energy-System-Modeling HW 1
+
+## Description
+This project provides simple utility functions for energy-related calculations.
 In this Project the aim was it to get us familiar with github and its key functions clone, push, pull. Also some functions were to be implemented and tests formulated for them.
+
+## Functions
+- calculate_power: computes hydro power output
+- efficiency: calculates efficiency ratio
+- normalize: scales values
+
+## Installation
+pip install -r requirements.txt
+
+## Testing
+pytest
+
+## Linting
+ruff check .
+
+## AI Usage
+This project was partially generated with AI assistance (ChatGPT).
+AI was used for:
+- creating the workflow
+- creating the README.md
+- advising in setting up the github and excecuting the processes properly
+
+All code was reviewed and adapted manually.
