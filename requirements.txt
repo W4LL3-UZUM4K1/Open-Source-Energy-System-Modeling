@@ -1,1 +1,1 @@
-There are no special requirements necassary besides pytest.
+pytest
