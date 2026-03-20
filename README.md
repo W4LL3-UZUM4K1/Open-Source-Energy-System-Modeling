@@ -1,5 +1,5 @@
 # Open-Source-Energy-System-Modeling HW 1
-![Tests](https://img.shields.io/github/actions/workflows/status/W4LL3-UZUM4K1/Open-Source-Energy-System-Modeling/python-tests.yml?branch=main&style=flat&label=test)
+![Tests](https://img.shields.io/github/actions/workflow/status/W4LL3-UZUM4K1/Open-Source-Energy-System-Modeling/python-tests.yml?branch=main&style=flat&label=test)
 ![License](https://img.shields.io/github/license/W4LL3-UZUM4K1/Open-Source-Energy-System-Modeling?style=flatt&color=blue)
 
 
