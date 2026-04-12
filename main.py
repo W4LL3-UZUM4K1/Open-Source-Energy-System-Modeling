@@ -1,8 +1,5 @@
 def hydro_power(n, q, h):
-    """Function to calculate the possible power
-    of a hydroelectric power plant depending on
-    the inputs efficiency (n), the flow rate (q),
-    and the drop height(h)"""
+    """Function to calculate the possible power of a hydroelectric power plant depending on the inputs efficiency (n), the flow rate (q), and the drop height(h)"""
     g = 9.81 #Gravity in m/S
     P = g * n * q * h #Calculates Power in W
     return P
